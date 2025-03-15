@@ -64,8 +64,7 @@ Enter number of inference steps (Default 50, higher = better quality): 75
 ## Example Results  
 | Prompt | Style | Output |
 |--------|-------|--------|
-| `A futuristic robot warrior` | Fantasy | ![Fantasy](fantasy_example.png) |
-| `A cute anime girl in a kimono` | Anime | ![Anime](anime_example.png) |
+| `An girl flying with wings` | Realistic | ![Realistic](fantasy_example.png) |
 
 ## Performance Tips  
 - **Enable GPU**: Make sure you have a CUDA-compatible GPU.  
